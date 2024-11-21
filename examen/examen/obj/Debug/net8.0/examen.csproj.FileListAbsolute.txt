@@ -1,0 +1,14 @@
+C:\Users\danii\source\repos\examen\examen\bin\Debug\net8.0\examen.exe
+C:\Users\danii\source\repos\examen\examen\bin\Debug\net8.0\examen.deps.json
+C:\Users\danii\source\repos\examen\examen\bin\Debug\net8.0\examen.runtimeconfig.json
+C:\Users\danii\source\repos\examen\examen\bin\Debug\net8.0\examen.dll
+C:\Users\danii\source\repos\examen\examen\bin\Debug\net8.0\examen.pdb
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.AssemblyInfo.cs
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.dll
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\refint\examen.dll
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.pdb
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\examen.genruntimeconfig.cache
+C:\Users\danii\source\repos\examen\examen\obj\Debug\net8.0\ref\examen.dll

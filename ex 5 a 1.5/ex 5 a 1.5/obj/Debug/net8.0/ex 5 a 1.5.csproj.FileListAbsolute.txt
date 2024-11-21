@@ -1,0 +1,17 @@
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\ex 5 a 1.5.exe
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\coordenades.txt
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\ex 5 a 1.5.deps.json
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\ex 5 a 1.5.runtimeconfig.json
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\ex 5 a 1.5.dll
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\ex 5 a 1.5.pdb
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.AssemblyInfo.cs
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.dll
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\refint\ex 5 a 1.5.dll
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.pdb
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ex 5 a 1.5.genruntimeconfig.cache
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\obj\Debug\net8.0\ref\ex 5 a 1.5.dll
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\coordenades2.txt
+C:\Users\danii\source\repos\ex 5 a 1.5\ex 5 a 1.5\bin\Debug\net8.0\coordenades3.txt

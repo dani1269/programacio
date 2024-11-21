@@ -1,0 +1,16 @@
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.exe
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\alumnesDAMDAW (1).txt
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\NUMEROS.TXT
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.deps.json
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.runtimeconfig.json
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.dll
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.pdb
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfo.cs
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.dll
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\refint\ConsoleApp17.dll
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.pdb
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.genruntimeconfig.cache
+C:\Users\danii\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ref\ConsoleApp17.dll
