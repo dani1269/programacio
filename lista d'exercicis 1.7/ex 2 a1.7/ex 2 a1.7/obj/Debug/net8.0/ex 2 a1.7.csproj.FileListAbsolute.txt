@@ -1,0 +1,14 @@
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\bin\Debug\net8.0\ex 2 a1.7.exe
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\bin\Debug\net8.0\ex 2 a1.7.deps.json
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\bin\Debug\net8.0\ex 2 a1.7.runtimeconfig.json
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\bin\Debug\net8.0\ex 2 a1.7.dll
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\bin\Debug\net8.0\ex 2 a1.7.pdb
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.AssemblyInfo.cs
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.dll
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\refint\ex 2 a1.7.dll
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.pdb
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ex 2 a1.7.genruntimeconfig.cache
+C:\Users\danii\source\repos\ex 2 a1.7\ex 2 a1.7\obj\Debug\net8.0\ref\ex 2 a1.7.dll

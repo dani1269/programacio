@@ -1,4 +1,0 @@
-C:\Users\danii\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danii\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.AssemblyInfoInputs.cache
-C:\Users\danii\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.AssemblyInfo.cs
-C:\Users\danii\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.csproj.CoreCompileInputs.cache
