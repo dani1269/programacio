@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\source\\repos\\ex 2 a1.7\\ex 2 a1.7\\ex 2 a1.7.csproj",
+      "projectUniqueName": "C:\\daniil\\programacio\\lista d'exercicis 1.7\\ex 2 a1.7\\ex 2 a1.7\\ex 2 a1.7.csproj",
       "projectName": "ex 2 a1.7",
-      "projectPath": "C:\\Users\\danii\\source\\repos\\ex 2 a1.7\\ex 2 a1.7\\ex 2 a1.7.csproj",
+      "projectPath": "C:\\daniil\\programacio\\lista d'exercicis 1.7\\ex 2 a1.7\\ex 2 a1.7\\ex 2 a1.7.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\source\\repos\\ex 2 a1.7\\ex 2 a1.7\\obj\\",
+      "outputPath": "C:\\daniil\\programacio\\lista d'exercicis 1.7\\ex 2 a1.7\\ex 2 a1.7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
